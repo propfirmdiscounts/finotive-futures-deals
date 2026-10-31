@@ -72,12 +72,12 @@ Total deals tracked: **4**
 
 ### 2026 (4 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-10-28 | 50% off Instant, 40% off One Step for Halloween | 50% off | 2026-10-31 | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/) |
-| 2026-10-22 | 50% Off Instant and 40% Off One Step Accounts | 50% off | 2026-10-25 17:59 (ended) | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) |
-| 2026-10-02 | 50% Off Instant Funding Options | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) |
-| 2026-09-25 | Up To 50% Off Instant & 40% Off One-Step Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-10-28 | 50% off Instant, 40% off One Step for Halloween | 50% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-halloween-50-off-instant-40-off-one-step/) |
+| 2026-10-22 | 50% Off Instant and 40% Off One Step Accounts | 50% off | 2026-10-25 17:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-40-off-one-step/) |
+| 2026-10-02 | 50% Off Instant Funding Options | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-models/) |
+| 2026-09-25 | Up To 50% Off Instant & 40% Off One-Step Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-50-off-instant-accounts/) |
 
 ---
 
@@ -104,6 +104,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |

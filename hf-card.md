@@ -25,7 +25,7 @@ As of 2026-10-28, the verified Finotive Futures discount code is PFDDEAL — up 
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-28
-- Trustpilot: 3.9/5 (9 reviews)
+- Trustpilot: 3.9/5 (10 reviews)
 - Activate: https://propfirmdiscount.com/go/finotivefutures
 - Firm page: https://propfirmdiscount.com/prop-firm/finotive-futures/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes

@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: finotive-futures-discount-codes
+  HF_NAMESPACE: finotivefutures
+  HF_REPO_NAME: finotive-futures-deals
   FIRM_SLUG: finotive-futures
   DEALSTORE_ID: 2859
   FIRM_NAME: Finotive Futures

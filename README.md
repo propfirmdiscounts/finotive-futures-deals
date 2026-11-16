@@ -1,6 +1,6 @@
 # Finotive Futures - Discount Codes & Deal History
 
-As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 25% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 25% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant - New Traders".
 
 > Finotive Futures s a futures trading evaluation and funding platform built for traders who want to demonstrate their ability, develop consistency, and access performance-based earning opportunities without risking substantial personal capital.
 > As part of the wider Finotive One ecosystem, Finotive Futures connects seamlessly with Finotive Funding, Finotive Markets and Finotive Pay. Traders benefit from one Finotive One account, one identity-verification process and one connected wallet, creating a simpler and more efficient experience across the entire Finotive ecosystem.
@@ -17,11 +17,11 @@ As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
 - Trustpilot: [4/5 (12 reviews)](https://www.trustpilot.com/review/finotivefutures.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/finotive-futures-deals](https://github.com/propfirmdiscounts/finotive-futures-deals)
-- Activate: [https://propfirmdiscount.com/go/finotivefutures](https://propfirmdiscount.com/go/finotivefutures)
-- Firm page: [https://propfirmdiscount.com/prop-firm/finotive-futures/](https://propfirmdiscount.com/prop-firm/finotive-futures/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Finotive Futures Deals Repository](https://github.com/propfirmdiscounts/finotive-futures-deals)
+- Activate: [Activate Finotive Futures Discount Code](https://propfirmdiscount.com/go/finotivefutures)
+- Firm page: [Finotive Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-futures/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Finotive Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Finotive Futures deal: 60% Off Instant - New Traders
 
@@ -30,7 +30,7 @@ As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 
 - Offer: 60% off
 - Scope: Instant Accounts, One Step Accounts - New Customers
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/)
+- Deal page: [Finotive Futures Deal Page](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/)
 
 ## Finotive Futures discount code FAQ
 
@@ -68,9 +68,9 @@ Total deals tracked: **5**
 
 This repository mirrors every deal **Finotive Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/finotive-futures/](https://propfirmdiscount.com/prop-firm/finotive-futures/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Finotive Futures Profile](https://propfirmdiscount.com/prop-firm/finotive-futures/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/finotive-futures-deals.json`
 
@@ -113,4 +113,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

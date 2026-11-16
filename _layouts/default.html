@@ -42,10 +42,76 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/finotive-futures-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Finotive Futures discount code?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PFDDEAL. It is verified by PropFirmDiscount.com and takes 25% off Finotive Futures challenges and accounts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Finotive Futures discount code expire?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is the current Finotive Futures deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60% Off Instant - New Traders — published 2026-11-12. Offer ends: Limited time. The offer is 60% off."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Finotive Futures Discount Codes & Deal History Dataset",
+    "description": "As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 25% OFF, which can be applied on the checkout page anytime. The newest is \\",
+    "url": "https://propfirmdiscounts.github.io/finotive-futures-deals/",
+    "sameAs": "https://propfirmdiscount.com/prop-firm/finotive-futures/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/finotive-futures-deals/main/datasets/finotive-futures-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "title",
+        "discount_value",
+        "standing_code",
+        "standing_discount",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}

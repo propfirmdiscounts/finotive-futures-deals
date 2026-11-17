@@ -1,4 +1,4 @@
-# Finotive Futures Discount Code & Deal History
+# Finotive Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 25% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Instant - New Traders".
 
@@ -17,7 +17,7 @@ As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-12
 - Trustpilot: [4/5 (12 reviews)](https://www.trustpilot.com/review/finotivefutures.com)
-- GitHub repository: [Finotive Futures Deals Repository](https://github.com/propfirmdiscounts/finotive-futures-deals)
+- GitHub repository: [Finotive Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/finotive-futures-deals)
 - Activate: [Activate Finotive Futures Discount Code](https://propfirmdiscount.com/go/finotivefutures)
 - Firm page: [Finotive Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/finotive-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -32,7 +32,7 @@ As of November 2026, the verified Finotive Futures discount code is PFDDEAL — 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Finotive Futures Deal Page](https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-60-off-instant-new-traders/)
 
-## Finotive Futures Discount Code & Deals FAQ
+## Finotive Futures Discount Code & Deals History FAQ
 
 **What is the Finotive Futures discount code?**
 
@@ -48,7 +48,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Finotive Futures Deal History
+## Finotive Futures Deals History
 
 Total deals tracked: **5**
 
@@ -64,7 +64,7 @@ Total deals tracked: **5**
 
 ---
 
-## About the Finotive Futures Deals Dataset
+## About the Finotive Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Finotive Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -72,7 +72,7 @@ This repository mirrors every deal **Finotive Futures** has published on PropFir
 - Prop firm profile: [Finotive Futures Profile](https://propfirmdiscount.com/prop-firm/finotive-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Finotive Futures Deal Dataset: Field Definitions
+## Finotive Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

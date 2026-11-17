@@ -1,4 +1,4 @@
-# Finotive Futures Discount Codes
+# Finotive Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for Finotive Futures from PropFirmDiscount.com.
 

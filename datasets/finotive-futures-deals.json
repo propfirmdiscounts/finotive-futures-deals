@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13507,
+    "title": "65% Off Instant, 50% Off One Step Accounts",
+    "offer_type": "coupon",
+    "discount_value": "65%",
+    "scope": [
+      "Instant Accounts And One Step Accounts"
+    ],
+    "date_published": "2026-11-27",
+    "date_exp": "2026-11-29 13:00",
+    "event": "Black Friday",
+    "last_verified": "2026-11-27",
+    "post_url": "https://propfirmdiscount.com/deals/finotive-futures/finotive-futures-65-off-instant-50-off-one-step/",
+    "prop_firm": "Finotive Futures",
+    "prop_firm_slug": "finotive-futures",
+    "standing_code": "PFDDEAL",
+    "standing_discount": "25%",
+    "activation_link": "https://propfirmdiscount.com/go/finotivefutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/finotive-futures/"
+  },
+  {
     "deal_id": 13449,
     "title": "60% Off Instant, 40% Off One Step",
     "offer_type": "coupon",
